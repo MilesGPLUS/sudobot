@@ -4,8 +4,9 @@ Um bot Discord feito por Miles12 para o servidor BDM ([clique aqui](http://disco
 # IMPORTANTE!
 Para o bot funcionar corretamente em sua máquina, é importante que você faça o seguinte:
 
-1. Execute o comando `npm install` no diretório raíz do bot
-2. Preencha os campos corretamente no arquivo `/bot.json`
+1. Utilize o Node.JS `v6.0.0` ou superior
+2. Execute o comando `npm install` no diretório raíz do bot
+3. Preencha os campos corretamente no arquivo `/bot.json`
 
 ### Licença
 Licenciado sobre MIT.
